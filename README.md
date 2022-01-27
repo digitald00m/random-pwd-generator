@@ -9,6 +9,8 @@ When the generate btn is pressed, you are given an option to agree to the criter
 * JavaScript
 
 ## Website
-https://digitald00m.github.io/Horiseon-Webpage-Refractor/
+https://digitald00m.github.io/random-pwd-generator/
+
+## GitHub Link
 
 
