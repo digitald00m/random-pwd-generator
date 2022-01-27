@@ -12,5 +12,6 @@ When the generate btn is pressed, you are given an option to agree to the criter
 https://digitald00m.github.io/random-pwd-generator/
 
 ## GitHub Link
+https://github.com/digitald00m/random-pwd-generator
 
 
